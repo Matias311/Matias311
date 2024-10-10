@@ -1,6 +1,6 @@
 <h1>Hola, me llamo Matias Arias<img src="https://media.giphy.com/media/l0HlKjAZTc6NHCSdy/giphy.gif?cid=ecf05e47l7pa21luw9ib3xe9lv3n05af5upa967113zwohy8&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"></h2></h1>
 
-**`BackEnd Developer`**
+**`Desarrollador de Software`**
 
 <div style="text-align: left;">
   Soy <strong>estudiante de Ingeniería en Informática</strong> en <em>Santiago de Chile</em>. 
